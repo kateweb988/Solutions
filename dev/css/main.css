@@ -367,7 +367,7 @@ input:-moz-placeholder, textarea:-moz-placeholder {
   text-align: center;
   border-radius: 5px;
   background: white;
-  padding: 50px 70px; }
+  padding: 59px 70px; }
   .popup__title, .popup2__title {
     color: black;
     font-size: 30px;
@@ -872,7 +872,8 @@ ul.info li {
       .ser__row_2 .ser__content h3, .ser__row_2 .ser__content p {
         color: white; }
       .ser__row_2 .ser__content p {
-        max-width: 385px; }
+        max-width: 385px;
+        opacity: 0.8; }
   .ser__item {
     align-items: flex-start; }
     .ser__item img {
@@ -1033,7 +1034,7 @@ ul.info li {
     background: rgba(255, 255, 255, 0.1); }
   .calc__name {
     color: white;
-    font-size: 23px;
+    font-size: 24px;
     font-weight: 600;
     line-height: 120%;
     margin-bottom: 38px; }
@@ -1772,7 +1773,7 @@ ul.info li {
         color: #E53824; }
 
 .news {
-  padding: 78px 0 30px;
+  padding: 78px 0 100px;
   background: #f9f9f9; }
   .news h2 {
     color: #2a3848;

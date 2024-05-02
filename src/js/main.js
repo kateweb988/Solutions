@@ -465,7 +465,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const progressContent4 = document.querySelector(".autoplay-progress4 span");
   var swiper4 = new Swiper(".swiper4", {
     slidesPerView: 4,
-    spaceBetween: 70,
+    spaceBetween: 59,
     centeredSlides: false,
     loop: true,
     autoplay: {
@@ -505,7 +505,7 @@ document.addEventListener('DOMContentLoaded', function () {
         slidesPerView: 3
       },
       1200: {
-        spaceBetween: 70,
+        spaceBetween: 59,
         slidesPerView: 4
       }
     }
